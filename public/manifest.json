@@ -1,0 +1,15 @@
+{
+  "name": "ip_and_timezone",
+  "description": "Extension provide client's public ip address and timezone based on location.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "See your ip and timezone"
+  },
+  "icons": {
+    "16": "clock.png",
+    "48": "clock.png",
+    "128": "clock.png"
+  }
+}
